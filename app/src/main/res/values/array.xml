@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filmName">
+        <item>Гордость и предубеждение</item>
+        <item>Искупление</item>
+        <item>Маленькие женщины</item>
+        <item>Энола Холмс</item>
+        <item>С любовью, Рози</item>
+    </string-array>
+</resources>
